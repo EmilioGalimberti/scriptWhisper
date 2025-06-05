@@ -1,0 +1,471 @@
+Entonces ya, vamos a lo siguiente, esto lo saben hacer, ya vieron sus consultas, me dijeron, así que como siempre vamos a hacer, y ahora es un consulto más fácil que hay.
+¿Vale? ¿Vale? ¿Vale?
+Bien, querido, hay que hacerla, hay un consulto más fácil que hay.
+¿Vale? ¿Se lo va a hacer?
+Pero simplemente la padre le va a contributions.
+Y como lo han tenido, yo quiero hacer una cosa que me devuelva, esa es la ok, si me escribió la fecha,
+lo que sea, la consulta sea los pricentemente inteligentes que si alguien sigo pegando registros,
+y sigue devolviendo los mejores.
+Y se le me la son con suelta, va a ser la con suelta, para que se me salguen con un conqueño,
+y se ha peído.
+Entonces, yo puedo hacer una peña, si me voy a hacer una peña,
+si me voy a hacer una peña, si me voy a hacer una peña,
+pero yo quiero.
+Yo tengo que hacer una peña,
+pero yo tengo que hacer una peña,
+pero yo quiero hacer una peña,
+y si me voy a hacer una peña,
+algo así,
+voy a hacer algo,
+pecho en el cemento,
+igual a la consulta cele,
+cele de esto,
+de el cemento en el cemento,
+pero,
+voy a decir,
+qué opinan?
+¿Por qué maximo?
+¿Por qué maximo es el cemento, del bonito?
+¿No, ¿puedo vestirlo de routing?
+Bien.
+Pero leMusikoca,
+Ahora, todos los pensaron más o menos así, traer el más gran traer, el más gran en este caso,
+y compararlo en el vuelo, que me diga, pues son, algunos los pensó de otra forma.
+Bien, fácilmente va a ser nada, y en la idea de lo que vamos a hacer con su consulta,
+con su consulta es nada más ni nada más.
+C, dentro de otro c, que contiene el cero que está en devido, todas las cláusulas del cero,
+y lo que le eje, menos el orden va ahí, según estándar, siempre lo repito, según estándar,
+el uno va a ir a la la la se da todo, lo va a poner a su consulta, pero que a tu, si funciona,
+según le estándar más que falta poner el orden va ahí en la su consulta,
+lo que es el interno, no nos importa el orden, ya vamos a ver por qué no importa el orden también.
+Si o si, diga que estándar entre paréntesis, si o si, diga que estándar entre paréntesis,
+por las dudas, si lo hagan puntos en el marcial, si lo hagan por la máquina, no va a haber problema,
+pero si lo hagan en los paréntesis, lo de mejor.
+Punto 3, debe estar en la derecha del operador,
+que hace lo que quise en el otro curso, cuando diga en elante de la mano derecha,
+todos saben cómo es la derecha, tiene que estar en la derecha del operador,
+si lo pongo igual, te he quedado tiene que estar en la derecha,
+hasta no sea se acále el consulta, ya acaban en la tira de uno,
+lo mismo digo, según le estándar, lo van en los hace más que la banda.
+Se quise por hace, se returcó pecho en la cimiento, igual, la subconsulta siempre le da derecha del operador,
+no importa qué operador, ahora le da derecha, no puede haber dentro la subconsulta,
+no pueden hacer según la estanda, hacer consulta a paníclo, unidad pública,
+es una sola consulta consulta.
+Cada viene a otra cosa importante, de vuelve normalmente una única columna,
+según le estándar es normalmente, quiere decir, hay veces en las que puede volver más a una columna,
+buena práctica es siempre devolver una columna,
+oscumbre en si les escribir toda la subconsulta devolviendo una sola columna,
+por costumbre, acá no es por costumbre, es como lo dado en los dientes,
+ya hacemos sin pensar, sin pensar, la subconsulta devolviendo una sola columna,
+no importa, hay un caso, no importa la cantidad de columna,
+pero si tiene una esta bien, si tiene 500, esta bien,
+a costumbre hay una, porque hay un solo caso,
+no pueden tener más de columna.
+Todos los demás es el error de tener más de columna.
+Y pueden incluir referencia a este error.
+¿Qué es referencia a este error? ¿Quién que me vieron a otra vez?
+¿Quién que vieron a un ejemplo?
+No, no llegaron. ¿No llegaron?
+No llegaron.
+¿Cómo?
+De la consulta principal.
+Alres.
+La subconsulta referencia hacia arriba.
+Referencia a este error es que cualquier subconsulta puede haber bastable,
+que están en las consultas de la conviene.
+Hace arriba, siempre hace lo fronque, están arriba.
+Nunca para abajo.
+La referencia hace que subconsulta son las tabletes que están en un fronque de un nivel superior.
+¿Cuánto nivel pueden tener?
+No hay límite.
+Buena práctica es, no tiene más de tres.
+Bien.
+Comisiones de búsqueda.
+¿De acuerdo a donde usted es de comparación?
+Este es el ahora mismo visto.
+¿Y qué otros tees habéis visto?
+Pregúte a exámenes eso.
+¿Y?
+¿Cómo se llama ahora?
+No.
+Es algo que se acuerde de que no se inquiero los nombres.
+¿Qué?
+¿Este se llama usted es de comparación?
+No es el mismo, se le igual.
+¿Este es de comparación?
+¿Este es de rango?
+¿Este es de rango?
+¿Cuál es este de rango? ¿Qué usó el que es de rango?
+Bito y.
+¿Estás de con punto?
+¿Partenencia?
+Bien, Partenencia con punto.
+¿Por qué se debe?
+¿Todos otros dos?
+¿Partena con lecho?
+¿Fíjate?
+¿Partenencia?
+el accidente en cero lo mismo
+para el código de ese padrão
+like
+y el último que me juro
+para el audio
+es de valor no
+y no
+es bien
+de esos
+cinco temas
+hay un momento para multitable
+las consultas humanizadas
+o sea bien para todas esas
+ahora bien
+vamos a ver
+cuáles de esos te
+nos sirven con sus consultas
+cuáles pueden usar sus consultas
+y cuáles no
+y van a aparecer un par de estos nuevos
+si es de comparación
+se acuerda
+comparo valor
+contra otro valor
+lo que tienen que recordar es que
+comparo valor
+contra otro valor
+cuantas frijas de color de esos consultas
+cuantas color de las consultas
+cuantas color de las consultas
+no
+¿cómo va a ver?
+tiene una vari
+para su maldeo
+no
+ugl
+y la su consulta de un revie2
+es error
+comparo a un valor
+contra un valor
+siempre
+siempre un valor
+contra un valor
+igual
+yo lo hago hacer
+una tributa igual a
+1,1,2,3
+eso es error
+y un in
+entonces
+un valor contra otro valor
+o no cual es un consulta
+tiene que devolver
+un único valor
+una sola fila o una sola color de color de color de color
+pide el licor a la calle el nombre del más coven
+lo que vimos recién
+usa el igual
+la su consulta devolve un solo valor
+entonces pueden comparar
+una fecha
+contra el fecha que devolgar
+si en el exame el pregunto
+cuantas filas
+pueden ver a su consulta
+si es el suente de comparación
+que va a responder
+pone
+pone
+entonces
+entonces
+no podemos hacer una recreación
+así
+empollado
+en la misma tabla
+sí
+pero
+la fecha empollado
+tiene
+una vez
+un poco
+no, tiene
+cuatro
+supongo que hay un detalle
+aquí
+referencia externa
+para que
+para
+comparar la fecha
+pone
+igual
+si
+que pondremos acá
+y juntos fechas
+podemos
+ponemos
+m punto
+fecha nack
+y acá
+un buen
+m
+supongo punto que
+si
+Usted는
+elkaar
+pero
+creo que
+es que
+vivimos
+así
+transferred
+voy a
+wary
+porque nosotros
+lo podemos
+¿Por qué no se puede?
+Síntaxi.
+Síntaxi. Muy bien.
+El fronco es mandatorio.
+De lo pueden escribir un cilfrum.
+Primera condición.
+Es mandatorio el fronco.
+No es opcional.
+El huele opcional.
+El bai opcional.
+Cabe opcional.
+El horno de bai opcional.
+El celerio el fronco.
+No se negocian.
+Yo creo que eso me mira poner igual más de a un punto de fecha en el asimiento, pero no podría.
+Porque el doler no lo opucó.
+El doler conocian su consulta o no.
+El concorte por eso va a ser igual.
+Si lo ponen igual, no lo va a ser.
+Lo entro.
+El juego no es otra.
+Supongamos que puedo decir que acá ponen las fechas en acimiento de esta tabla.
+Y poner una referencia externa que compara los ais.
+Y va a dar siempre comparar el mismo empleado por el mismo empleado.
+Toda la fecha en acimiento de la ser igual.
+Si lo podes poner ahí acá dentro,
+y ya está, no puede hacer referencia externa.
+Porque está ahí, no la vas a ver nunca más acá.
+La sobre escribito.
+Realmente eso es alguna práctica, es poner los diquinto por los dudos de las necesitas.
+La otra es que no pueden ser la incompatible,
+porque necesitan comparar este empleado contra todo.
+Y eso es una tratable como la auto composición.
+Necesito tener dos veces la tabla.
+Pero la más fácil para que se acuerden es gesto el mandato,
+y lo tengo que escribir si o si.
+Otra consulta.
+Montrar el apellido cargo y suelto de todos los empleados
+que ganan menos que el promedio de los empleados.
+El máximo pero de otro tributo.
+El salario.
+Comparen salario.
+Pero es la que...
+El mede igual...
+El mede igual...
+Pero...
+El mede.
+El mede igual...
+El mede igual...
+El mede igual...
+El mede igual...
+Pero...
+El mede igual...
+Y si enriquefiquense,
+un solo valor.
+Bien.
+Otra vez que podemos usar la subconsulta.
+Pertenencia con punto.
+Se acuerden que comparar un valor contra una lista.
+No es si está incluido en una lista.
+Y es pertenencia con punto.
+Con punto como hemos visto esta hora era esta tipo.
+Decimos que el tributo que valor este en día
+y ya está el afijo.
+No cambiamos.
+Que pasa si queremos tener un conjunto dinámico
+o sea de valor que se carguen en una tabla
+y que se pueden ir agregando con el tiempo
+queremos que siempre comparar que pertenezques con un punto.
+Ahí traeríamos con una lista de subconsulta.
+Si se fijan,
+en este caso lo mando anterior una columna.
+¿Cuántas filas?
+Una muy...
+Se puede ir.
+Pues no se dejen en este caso.
+Hoy no me ha dicho,
+no puede no haber filas,
+pues esta es la vación.
+Pero una columna.
+Hasta ahora llevamos dos test
+y los dos nos existen una columna.
+Bien.
+Obtener la descripción de los productos
+no ven nidos en el 21.
+Entonces tenemos el comulario.
+Ya tienen saco en el tabla
+ya tienen saco en el tabla
+de patura, de patura,
+producto,
+todo el sarganismo,
+y la normalización,
+varias veces.
+No voy a resaltar.
+¿Cómo resolverían eso?
+¿Cómo tienen los productos que no vean llenos?
+Es un consulta incluido en el cual
+que sea el nudo de la encarenda.
+Fecha de venta lula.
+Número, nudo de tique.
+Número de tique.
+Número de tique.
+Hasta sugiere en esto.
+¿Cómo?
+¿Cómo?
+¿Cómo estamos si nos vieron rancos?
+¿Qué cuenta? ¿Por qué?
+El nudo ha sido en ligación,
+pero me quedó lista.
+¿Por qué tenemos que llegar?
+Trial detalle a la factura.
+¿Cómo es un consulta o un ligado que se vean lleno?
+Bien.
+¿Cómo es un consulta o un debatear todo lo que se vean lleno?
+¿Por qué va a dar todo lo que se vean lleno?
+¿Qué es la número de la factura?
+¿Qué dice? ¿Por qué?
+Son los datos que tenemos.
+¿Podemos tener el que no se vean lleno?
+No, no.
+No, no.
+No, no.
+No, no.
+¿Puedes hacer respiro del fice?
+No, no.
+¡No vamos a cargar el regíforo del nodo!
+¿Cómo sabe la número de los que no se vean lleno?
+Commandas.
+رو dejad cosplay, eh, qué tiene el hucraro?
+O sea, pues nogleulares de todos los restaurantio que terminan las faturas.
+¿No?
+Otra cosa.
+Recuerden que cuando estamos hablado de la normalización y de vacidad conふássia sustantas,
+Se acuerdan en el momento de hoy uno de los posibilidades que hayan hecho,
+de la vía real, de la realidad, de la gente, de la gente.
+Transaccion.
+Se han estado al cambio, que involucreras.
+Y no se podían reproducir una vez que se producir,
+si los perdían con los perdidos,
+los podían reproducir por mi rinidad.
+Pero no registramos hechos positivos,
+cosas que pasaron.
+Una noventa.
+Normalmente no existen la noventa.
+Es un supermercador.
+No, entre uno salio, sin nada, el tánico.
+Carca el dedo, ¿eh?
+Y pues...
+Bien, luego tendréis que saber que esto,
+que sea el principio del perio que estoy pidiendo,
+y que esto tendréis al final.
+En el lado que vas a estar registrando los esto,
+que tenías todos los días, todas las móvites.
+Al final, el día me tienes que registrar el número de electos,
+que esta al día era esto,
+que esta al día le he estado quedando,
+tanto, tanto, tanto, tanto.
+Y haría con la matemática.
+Hay Poderian Hacer,
+con un digstín de los dos laberní,
+y los compárares,
+con un sony contra los valentables,
+y de todo lo que hay.
+Bien.
+Podes decir,
+a dar un trángo a lo que vendí,
+y a un John,
+con los híces,
+con los productos.
+Cuando es un John,
+¿qué está haciendo John de qué?
+¿De qué es el John de los dos de los propiedades?
+¿De qué es el John de los que vendí?
+¿De qué es el John de los que vendí?
+No es que los que vendí,
+no es que los John es un puntamente,
+los que no vendí.
+Yo quiero que me muestri,
+pero aquí no, no, no, no, no, no, no.
+¿Qué es el John de los que vendí?
+¿Qué es el John de los que vendí?
+Sí, sí, John.
+Si hace John,
+para hacer John,
+tiene que hacer siempre con lo que se requitró.
+O sea, en este caso,
+se puede hacer un deletador de productos
+y el John de los ventas.
+¿Tabéis, ¿para qué daros que vendí?
+No, no hacemos el deletador.
+¿Y por ahí hemos quedado el deletador?
+Bueno, y hasta ahora sí,
+¿qué lo tiene ahí?
+¿Qué es el tique de barrio de seguro?
+No.
+¿Qué es el pecado que lo decís?
+¿No?
+¿No?
+¿Por qué?
+No, porque el tique de seguro.
+Porque a por decir que
+es un tres o años con todos los los de con la plantación,
+es de acuerdo.
+Y por eso lo que nos contenza,
+es que los van a venir.
+¿No?
+Porque la tabla de productor no tiene la fecha de tón tíle fíjelo.
+Pero va a ser contra una fila que no existe.
+Pero en el cable de tíle,
+no tiene el tique seguro.
+¿No?
+No tiene el tíje seguro.
+¿No?
+¿Y qué?
+No, pero es lo que nos pongo.
+que no ves que no veis datos en esa columna,
+ver esa es la salida, te cuere mucho antes,
+te cuere sobre la tabla,
+y entre la tabla de la fila.
+O se mencionaba, Dios, la lengua,
+y el producto de la simbrica,
+y tengo un poco de fila de suena,
+el doctor, el doctor,
+y ahí con la misma.
+Siempre que a señor es contra los positivos.
+Ahora no lo escucho,
+pero es un selecto de línea de producto,
+que es tronco,
+y la tabla de la simbrica,
+y ahí con el que tenemos que hacer,
+no tiene, tiene una suponsultad.
+Cuando les diga,
+por eso es marqué,
+cuando diga lo que no existe,
+100% suponsultad.
+Ahora piensen de otra forma,
+100% suponsultad.
+Una suponsultad profetivo,
+una corregió en guía y tuve eso.
+¿Uy qué?
+Es que no.
+¿Y eso?
+De un malo a Dios,
+me tengo corriendo.
+Es claridad, ¿no?
+No.
+Pero si es una suponsultad.
+¿Dónde va la tabla?
+¿Dónde va la tabla?

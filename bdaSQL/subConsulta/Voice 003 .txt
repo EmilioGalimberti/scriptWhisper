@@ -1,0 +1,264 @@
+¿Qué hace el azúcar consulta?
+El detalle.
+El aire del artículo que viene del detalle,
+tiene que hacer un role con la cabezera
+porque necesita la fecha.
+Ah, eso que pasa.
+¿Por qué os piden el tobimintiú?
+No piden fecha,
+pero no piden fecha.
+¿Clario lo que nunca se vendió?
+Bien.
+Bien.
+Ve que siempre está al derecha de logrados.
+Bien, presento un test nuevo.
+Es que este test no se usa fuera de su consulta.
+Lo que hace este test es verificar si el azúcar consulta devuelve al menos una fila.
+¿De acuerdo que verdadero cuando el azúcar consulta devuelve al menos una fila?
+¿No importa cuánta fila devuelva,
+¿no es de verdadero?
+¿Cuándo da falso cuando el azúcar consulta devuelve al menos una fila?
+Es que el azúcar consulta es fácil.
+No se usa los valores penejo en el cerebro.
+Ya vamos a ver por qué.
+Es un test un año.
+¿Y significa?
+Que no compara el azúcar.
+Que no compara, no usan los valores.
+Es como el disnulio.
+Es un área.
+Por eso, como no usan los valores penejo en el cerebro.
+La recomendación les usa una constante.
+Poco en el número.
+¿Selecuno?
+Y la casa.
+¿En qué casa?
+Bien.
+Ahí vamos a ver el caso.
+Ahora vamos a ver el caso.
+Pero no importa lo que supongen en el cerebro.
+También podrían poner si selecaterico.
+Este es de que se aporta más de una columna.
+Pero como no importa cuánta columna,
+pero no las usa,
+acostumbranse a poner una.
+Entonces, es una cosa bien en la que hay que pensar
+cuando está haciendo una consulta en el parcial.
+¿Cuántas columna van a el azúcar consulte nada?
+Yo siempre supe.
+Sé que uno está bien.
+Entrape los cosas que tengamos que recordar
+en el momento de parcial mejor.
+Y si usa este test,
+siempre se usa, no da error,
+pero siempre se usa con referencia a este arma.
+Para el que tenga sentido el uso,
+tiene que ser con referencia a este arma.
+¿Pero que fue un ejemplo?
+Sí, es el ejemplo.
+Ahí, vamos a ver esto.
+Aquí acá vamos a ver.
+El test le va a lurar.
+Si, le vuelve el tipo de folzo.
+De un test, le vuelve el verdadero falso.
+Como cualquiera de los test,
+va a devolverme el verdadero falso.
+Sólo que al ser unario,
+le vuelve el verdadero falso.
+De acuerdo si la susto la consulta,
+o sea, esa es la afirada como que es.
+Me comento, es una constancia.
+Cuando vimos consultas simples,
+vimos que podíamos poner
+bastantes en el céreco.
+Pueden hacer esto o poder poner un uno.
+Lo mejor es poner un uno,
+pero es que es de performance.
+Pueden poner un attributo de la tableta,
+también no hay problema con eso.
+Pueden poner este ahí.
+La recomendación va a ser una constante
+para que el motor no tenga que pensar nada.
+Entonces, esta que hagan trabajo,
+como no importa los valores que vienen en el céreco,
+sino lo que importa es ver si trae una otra de filas.
+Una cuestión de rendimientos.
+La recomendación va a ser una constante.
+El motor no tiene que pensar
+en el atón de buscar el attributo
+que le están poniendo en el céreco.
+Es un trabajo, no diría que hacer.
+Bien.
+Tener la descripción de la provoco,
+no, no, no, no, no, no.
+No, no, no, no.
+No, no, no, no.
+No, no, no, no, no.
+No, no, no, no, no.
+Pero ahora lo resta el link con ex.
+Ahora tienen una azuda.
+¿Ves? ¿Ves? ¿Ves?
+¿Ves? ¿Ves? ¿No te exista?
+¿Cómo? ¿Te hacía el subconsulta?
+¿Ves? ¿Veremos esa?
+¿Esto no va? ¿Por qué es un área?
+¿No te exista? ¿Y esa es un consulta?
+¿No falta la constante?
+¿Cómo no moré?
+¿No pasa nada? ¿Era lo mismo? ¿Pero pasemos así?
+Y ahora la decimos que...
+...a...
+...tengo un traidí...
+...te digue la...
+...de traje...
+...de lo bueno...
+...de lo bueno, de lo bueno, de lo bueno, de lo bueno, de lo bueno.
+Ahí dirá que...
+¿Por qué?
+¿Por qué? ¿Por qué? ¿Vale a ver el amor? ¿Por qué?
+¿Entres algo? ¿Por qué?
+¿El lo que te es diciendo es...
+...en ese de eso...
+...pon un nán...
+...y hacer a punto a ir y...
+...y igual a d punto...
+...a ir y dar.
+Esto es preferencia extremo.
+Pute al pusear un atributo...
+...y una tabla que está en el fron de un nivel superior.
+¿Por qué?
+¿Por qué?
+Era mandato y usaba la requerencia extremo.
+¿Qué pasa si no definimos la requerencia extremo?
+¿Lo dejamos así?
+¿Cómo van a solucionarlo?
+¿Vale a ver algo?
+No, no, no.
+¿Por qué?
+Era mandato y usaba la requerencia extremo.
+¿Qué pasa si no definimos la requerencia extremo?
+¿Cuándo es falso?
+¿Cuándo eso es falso?
+¿Cuándo es verdadero? ¿Cómo va a leer?
+Si vendimos al menos un artículo...
+...que va a devolver este exigir este...
+...que va a devolver este subconsunto de devolver una fila.
+En el exigir va a devolver una fila...
+...por qué va a devolver una fila?
+El no va a decir falso.
+Me va a mostrar algo...
+...si cambiamos de artículo...
+...si cambiamos de artículos...
+...la única forma que me muestre algo...
+...que no haya aprendido nada...
+...que el exigir falso...
+...que el no lo transforme en true...
+...y me muestre todos los fatículos.
+Lo estaré teniendo contra el centro para esta falso.
+Si agregamos la referencia externa...
+...que estamos introduciendo.
+Recuerden que esto viene de esta tabla en esta carrera.
+Este valor es la clara del climario.
+A medida que cambio de fila en esta tabla...
+...este valor cambia.
+Con lo cual, como me cambio...
+...me cambio el resultado de la subconsunto.
+El resultado de la subconsunto depende del valor...
+...de la idea de la carrera.
+Y cambia ese valor, cambia el resultado.
+Con lo cual puede que para un álcool, para un álcool...
+...y álcool a la fila, y para otro no.
+Para los que no va a haber fila...
+...son aquellos que no se venieron.
+Si la subconsunto viene vacía quiere decir...
+...que ese artículo...
+...supongo que acá tenemos los artículos 1, 2 y 3.
+El puntero del cursor de este fronc...
+...tare el 1.
+Esto va a valer 1.
+Y va a decir...
+...1 y igual a la idea de la artículo del detalle.
+Va a traer todos los detalles donde la idea artículo es 1.
+Si la idea artículo 1 no se venió...
+...no trae nada.
+Como no trae nada...
+...dice...
+...pales.
+La subconsulta no tiene fila.
+El nodo transforme en true y muestra el 1.
+Si un artículo se venió...
+...va de volar fila, porque al menos va a gastar en un detalle.
+Va a venir una fila.
+El activa de true no lo pone en folio.
+No se muestra ese artículo.
+Oera pregunta.
+Ustedes ven a alguna ventaja.
+Así prevista no.
+Y no le preguntas acción, así prevista no inventan.
+Como voy de ventaja.
+Se fijan referencia a este artículo.
+Bien.
+Ventajas.
+Depende.
+¿Cuál es parece que podría ser el más rápido de los dos?
+El índice.
+¿Por qué?
+Lo cual con que cuando aparece la primera fila la déjo de volver a dar.
+Bien, así.
+Analizándolo de esa forma, el índice parece mejor...
+...más performante que el índice.
+Ahora bien, es...
+...en tablas grandes?
+Sí.
+Es mejor la existe que el índice.
+Porque el índice lo que hace es que alvar todo lo valor,
+Tiene un barra con todo hasta que encuentre uno. Puede estar al último.
+O sea, podré ir cargar. Si la tabla lo tendré, cargando en las suponsultas.
+Fíjense que acá tenemos un detalle de faturas. Debes ir una tabla de normal.
+Si el negocio va bien, tenemos muchas faturas.
+Elí para integrar su barro primero de ir cargar toda la tabla.
+Lexis, lo que empieza a cargar la tabla cuando encuentre una fila corta.
+La tabla de congiuna, vamos y vamos, pasamos siguientes.
+Por ahí encuentre una fila en la primera cien y elín tiene que cargar un milón de fila.
+Cuando las tablas involucradas en las suponsultas son chiquitas, es marra que elín.
+Porque el resumptor pone la memoria y no lo vuelve a calcular.
+Eléxis, con eléxis, con referencia externa, con las suponsultas que ejecuta todas las veces.
+Cada vez que cambie la fila se ejecuta.
+Si la tabla ártico lo tenemos diez mil filas recrutar de diez mil veces.
+Elín se ejecutaría una sola vez.
+Entonces, dependiendo si las tablas que están involucradas en elín son chiquitas, elín es mejor.
+Si las tablas son grandes, eléxis gara por la boleda.
+Elín, el mismo recién, no la tabla que cargas y no resulta de volar.
+Este es elín, estas suponsultas que se fijan no tienen nada que la vas a cambiar por más que me cambie toda la fila acá.
+El resultado va a ser siempre el mismo, no hay referencia externo.
+Entonces lo que hace el motor es agarra esta consulta, le ejecuta la primera vez para la primera fila de ártico lo mismo.
+Y hay ese resultado en el lugar del memoria.
+La lista de ártículos tuvo la primera vez la puerta en la memoria.
+A partir de ahí no vuelve a ejecutar las suponsultas sino que salita de la memoria y la compara.
+A la subconsulta le ejecuta una sola vez.
+Guarda el resultado de la subconsulta en la memoria.
+Lo que ejecuta para la primera fila de ártículo y el cuento de la otra fila de ártico compara contra ese resultado de memoria.
+Cuando usted utiliza referencia externa, el motor no guarda el resultado porque dice que puede cambiar la fila.
+Entonces la eje, a esta consulta le ejecuta por cada fila que tenga acá.
+Si una subconsulta no tiene referencia externa, se ejecuta una sola vez.
+Si tiene referencia externa, se ejecuta tantas veces como fila halla en la tabla en la consulta principal.
+Quiero dejar la ren classe y de miesquino artístico y absorbe una fuena, se ejecuta takas malo.
+Bien, ¿no? ¿Es cuín, no hay uno?
+No. ¿T besonders disistirá algo, en la ex ex ugh MIDI?
+No, pero comenceך pero el existe, bueno, literamente esto vuelos porque los que hacen ap darken encuentro la primera fila que cumple con nuestros показados desde Brittany Community.
+para trabajar, apenas encuentro buenas porque lo que le importa es el filo o no, un
+cuando el cuadro las primeras, vamos, después, deja de ir al 5 de caso todo, no por que
+tiene mecanismo que te van a hacer primero este filtrado más rápido, hace join de filtr
+rápido, entonces aplica el filtrado, es rapidismo, forma que tiene y lo he probado es muy
+comparado por elín, por minumos, el 1 porque no importa lo que devuelvo, fue poner 1,
+voy a poner esterico, voy a poner un atributo, pasa que si usen una constante, el compilador
+y todo eso no tiene que estar preocupando, así que esto lo tiene que buscar dicionalidad,
+lo tiene que hacer nada, lo tiene que significar que existen nada, todo la constante,
+es una pasión paCre de Toronto y que es pero por normalizar el trabajo, hacer el trabajo
+que no le importa, un cambio y informar si hay resistencia, es más, eso me está un Toy,
+pero en la base de datos actuales, lo importante, porque lo que hace el botón es
+agarrar eso, si lo tira o no le muere una inclinición artificial, a un programa se
+determina por ejemplo, modo de disputar por el mismo momento de acuerdo a la
+estadística que tiene en ese momento, o sea no importa cómo está escrito, a veces
+lo que atras a alguien y lo transforma para concorrer en ese momento, ya les va a ser
+datos bien en ese punto de la inclinición, pero así, 40 años no tenian eso, tenias reglas.
